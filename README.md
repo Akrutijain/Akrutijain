@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **NodeJS , React**
 
-- 👨‍💻 All of my projects are available at [Website][https://akrutijain.github.io/](https://akrutijain.github.io/)
+- 👨‍💻 All of my projects are available at [Website][[https://akrutijain.github.io/](https://akrutijain.github.io/)]
 
 - 💬 Ask me about **Python , NodeJs, React**
 
 - 📫 How to reach me **akkukothari7001@gmail.com**
 
-- 📄 Know about my experiences [Resume][https://drive.google.com/file/d/1M2ZtZYafsepPXZONsI_R3vkfUBffHSlP/view?usp=sharing](https://drive.google.com/file/d/1M2ZtZYafsepPXZONsI_R3vkfUBffHSlP/view?usp=sharing)
+- 📄 Know about my experiences [Resume][[https://drive.google.com/file/d/1M2ZtZYafsepPXZONsI_R3vkfUBffHSlP/view?usp=sharing]](https://drive.google.com/file/d/1M2ZtZYafsepPXZONsI_R3vkfUBffHSlP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
